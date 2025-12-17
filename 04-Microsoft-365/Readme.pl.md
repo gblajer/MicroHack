@@ -1,0 +1,1 @@
+Poszukujemy współpracowników :)
