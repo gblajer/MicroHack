@@ -3,7 +3,7 @@
 # Microsoft MicroHacks
 
 ## 🌍 Language / Język
-- [English](README.md) | [Polski](README.pl.md)
+[English](README.md) | [Polski](README.pl.md)
 
 - [**Microsoft MicroHacks**](#microsoft-microhacks)
 - [**Przegląd MicroHack**](#przegląd-microhack)
